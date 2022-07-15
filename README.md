@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suraj! last name: Kopparam
-- 👀 I’m interested in ... lots of random things, including
-- 🌱 I’m currently learning ... how to collaborate well on coding projects along with a many other things
-- 💞️ I’m looking to collaborate on ... any beginner to intermediate projects 
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... how to collaborate well on coding projects 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @surajmsd1@gmail.com
 
 <!---
